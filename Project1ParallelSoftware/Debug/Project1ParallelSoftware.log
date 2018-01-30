@@ -1,0 +1,8 @@
+﻿  Project1.c
+c:\users\daniel\documents\visual studio 2015\projects\project1parallelsoftware\project1parallelsoftware\project1.c(8): warning C4047: 'function': 'const char *' differs in levels of indirection from 'FILE **'
+c:\users\daniel\documents\visual studio 2015\projects\project1parallelsoftware\project1parallelsoftware\project1.c(8): warning C4024: 'fopen': different types for formal and actual parameter 1
+c:\users\daniel\documents\visual studio 2015\projects\project1parallelsoftware\project1parallelsoftware\project1.c(8): warning C4020: 'fopen': too many actual parameters
+c:\users\daniel\documents\visual studio 2015\projects\project1parallelsoftware\project1parallelsoftware\project1.c(18): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\daniel\documents\visual studio 2015\projects\project1parallelsoftware\project1parallelsoftware\project1.c(29): warning C4098: 'main': 'void' function returning a value
+c:\users\daniel\documents\visual studio 2015\projects\project1parallelsoftware\project1parallelsoftware\project1.c(8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
